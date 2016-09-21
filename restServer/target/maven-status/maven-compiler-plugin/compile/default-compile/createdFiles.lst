@@ -1,0 +1,6 @@
+wjf\restserver\HttpServer$1.class
+wjf\restserver\HttpServerInboundHandler.class
+wjf\restserver\HttpServer.class
+wjf\rest\service\TestService.class
+wjf\rest\service\BaseService.class
+wjf\restserver\ProcessReq.class

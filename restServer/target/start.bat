@@ -1,0 +1,1 @@
+java -jar HttpServer.jar 8089 -Xms128m -Xmx256m -Xmn64

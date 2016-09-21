@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: wujf
+Class-Path: lib/spring-context-4.3.0.RELEASE.jar lib/spring-aop-4.3.0.
+ RELEASE.jar lib/spring-beans-4.3.0.RELEASE.jar lib/spring-core-4.3.0.
+ RELEASE.jar lib/commons-logging-1.2.jar lib/spring-expression-4.3.0.R
+ ELEASE.jar lib/spring-context-support-4.3.0.RELEASE.jar lib/slf4j-log
+ 4j12-1.7.10.jar lib/slf4j-api-1.7.10.jar lib/log4j-1.2.17.jar lib/net
+ ty-all-5.0.0.Alpha1.jar lib/commons-lang-2.6.jar
+Build-Jdk: 1.8.0_65
+Created-By: Maven Integration for Eclipse
+Main-Class: wjf.restserver.HttpServer
+

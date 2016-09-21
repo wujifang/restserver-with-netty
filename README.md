@@ -1,6 +1,14 @@
 # restserver-with-netty
 maven+netty+srping实现基于json的rest服务
 
+开发背景
+
+  1、项目运行不在依赖于web容器
+  
+  2、基于netty的nio模式，使用应用更加轻量，且并发支持更加优秀
+  
+  3、开发更加简单快捷
+
 设计思想
 
   1、采用约定大于配置的原则实现
